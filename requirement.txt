@@ -1,0 +1,8 @@
+streamlist==1.39.0 
+pandas==2.2.2
+plotly==5.24.1
+numpy==1.26.4
+openpyxl==3.1.2  # if expoting excel
+matplotlib==3.9.0  # if using matplotlib plots
+seaborn==0.13.2  # optional charts
+sqlalchemy==2.0.30 # if connecting to databases
